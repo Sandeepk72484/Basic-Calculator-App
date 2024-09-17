@@ -53,9 +53,10 @@ button {
     cursor: pointer;
 }
 
-/* .equalBtn{
+.equalBtn {
     background-color: #fb7c14;
 }
-.operator{
+
+.operator {
     color: green;
-} */
+}
